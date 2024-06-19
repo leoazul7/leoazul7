@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leoazul7
 - 👀 I’m interested in autonomous driving perception, sensor calibration, and robotics
 - 🌱 I’m currently learning bev perception
-- 💞️ I’m looking to collaborate on bev
+- 💞️ I’m looking to collaborate on perception
 - 📫 How to reach me leocoder7@proton.me
